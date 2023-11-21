@@ -1,5 +1,5 @@
 ### Bonjour à tous ! 👋 
-Je suis Corentin Suard et vous souhaite la bienvenue sur mon profil Github.  
+Je suis Corentin Suard et vous souhaite la bienvenue sur mon profil GitHub.  
 Je réalise des projets dans les langages suivants:  
   
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
